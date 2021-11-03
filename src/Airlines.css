@@ -1,0 +1,15 @@
+.wrapper {
+  transition: all 0.2s ease-in-out;
+}
+
+.wrapper:hover {
+  transform: scale(1.1);
+}
+
+.hidden {
+  display: none;
+}
+
+.light-font {
+  color: #5a6872;
+}
